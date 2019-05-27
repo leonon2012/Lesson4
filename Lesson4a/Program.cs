@@ -6,8 +6,9 @@ namespace Lesson4
     {
         static void Main(string[] args)
         {
-            //Task3(10000);
-
+            Console.WriteLine("<< Task3 >>");
+            Task3(10000);
+            Console.WriteLine("<< Task4 >>");
             Task4();
         }
 
