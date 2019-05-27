@@ -57,6 +57,9 @@ namespace Lesson4a
 
                 if (find)
                     Console.WriteLine(i);
+
+
+
             }
         }
     }
