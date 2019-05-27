@@ -1,10 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace Lesson4a
+namespace Lesson4
 {
     class Program
     {
@@ -57,9 +53,6 @@ namespace Lesson4a
 
                 if (find)
                     Console.WriteLine(i);
-
-
-
             }
         }
     }
